@@ -1,0 +1,13 @@
+body {
+  background-color: #f9e7a6;
+  font-family: "Redressed", cursive;
+  text-align: center;
+}
+.href {
+  padding-right: 20px;
+  margin-bottom: 200px;
+}
+.mail {
+  display: block;
+  margin-bottom: 15px;
+}
