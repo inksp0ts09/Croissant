@@ -1,5 +1,9 @@
 body {
   background-color: #f9e7a6;
+}
+
+h1,
+h2 {
   font-family: "Redressed", cursive;
   text-align: center;
 }
@@ -18,7 +22,9 @@ body {
 
 footer {
   text-align: center;
-  padding-right: 20px;
-  margin-bottom: 200px;
+}
+
+footer a {
+  margin: auto 10px;
   color: brown;
 }
