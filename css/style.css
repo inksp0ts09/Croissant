@@ -9,6 +9,13 @@ body {
   margin-bottom: 15px;
 }
 
+.croissant-photo {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px 0;
+}
+
 footer {
   text-align: center;
   padding-right: 20px;
